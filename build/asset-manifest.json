@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fronting-amirah/static/css/main.32248ef8.chunk.css",
+    "main.js": "/fronting-amirah/static/js/main.9ac1a9f5.chunk.js",
+    "main.js.map": "/fronting-amirah/static/js/main.9ac1a9f5.chunk.js.map",
+    "runtime-main.js": "/fronting-amirah/static/js/runtime-main.701e0329.js",
+    "runtime-main.js.map": "/fronting-amirah/static/js/runtime-main.701e0329.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/fronting-amirah/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.aeb35cfa.chunk.js": "/fronting-amirah/static/js/2.aeb35cfa.chunk.js",
+    "static/js/2.aeb35cfa.chunk.js.map": "/fronting-amirah/static/js/2.aeb35cfa.chunk.js.map",
+    "index.html": "/fronting-amirah/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/fronting-amirah/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.32248ef8.chunk.css.map": "/fronting-amirah/static/css/main.32248ef8.chunk.css.map",
+    "static/js/2.aeb35cfa.chunk.js.LICENSE.txt": "/fronting-amirah/static/js/2.aeb35cfa.chunk.js.LICENSE.txt",
+    "static/media/background_video.d06fc05e.mp4": "/fronting-amirah/static/media/background_video.d06fc05e.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.701e0329.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.aeb35cfa.chunk.js",
+    "static/css/main.32248ef8.chunk.css",
+    "static/js/main.9ac1a9f5.chunk.js"
+  ]
+}
